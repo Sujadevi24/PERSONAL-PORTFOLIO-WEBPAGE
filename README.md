@@ -67,8 +67,6 @@ MENTOR:NEELA SANTHOSH
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e731dfb3-1f47-45ef-8bbb-061e5ec33996" />
 
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/5b14ec73-0929-4858-8ad1-c80bafa0af52" />
-
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/d5c644da-4ad0-4e0b-9166-bf7aa79df213" />
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/0631540f-ad5e-46e7-b0f1-3b66b1b178ab" />
